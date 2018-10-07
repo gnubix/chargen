@@ -1,0 +1,7 @@
+
+Dazzle
+Fireball
+Healing
+Lightning
+Luck
+MagicShield

@@ -1,0 +1,16 @@
+Generate name from names list
+
+random assignment of class to dice
+
+random assignment of stuff and spells
+  based on result of d12 class assignment
+
+~ append 15 HP
+
+~ append 1 healing potion to equipment
+
+! random gold roll 1-100gp
+
+only explorers get bows
+
+ 

@@ -1,0 +1,4 @@
+LongSword
+GreatSword
+GreatAxe
+Maul
